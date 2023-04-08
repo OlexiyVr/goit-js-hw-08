@@ -1,0 +1,2 @@
+.feedback-form{max-width:480px;background-color:#fff;border:1px solid rgba(0,0,0,.12);border-radius:5px;flex-direction:column;padding:12px;display:flex}.feedback-form label{flex-direction:column;margin-bottom:16px;display:flex}.feedback-form button{font:inherit;cursor:pointer;padding:8px 12px}input,textarea{font:inherit;padding:8px}textarea{resize:none}input:hover,:focus,textarea:hover,:focus{border-color:#2e36cb}
+/*# sourceMappingURL=03-feedback.f5591c71.css.map */
